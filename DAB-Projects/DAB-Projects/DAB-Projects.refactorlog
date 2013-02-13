@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="ce4d027c-224a-4ec5-8615-a1885691e433" ChangeDateTime="02/06/2013 08:52:55">
+    <Property Name="ElementName" Value="[dbo].[Haandvaerker].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Haandvaerker]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="HaandvaerkerId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="12ca1178-2c44-4464-b1a5-7f55030257bd" ChangeDateTime="02/06/2013 08:53:14">
+    <Property Name="ElementName" Value="[dbo].[Haandvaerker].[Fulde navn]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Haandvaerker]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Fornavn" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="0d126cfd-e2a8-412e-8b5e-ac003adcd289" ChangeDateTime="02/06/2013 08:53:51">
+    <Property Name="ElementName" Value="[dbo].[Vaerktoejskasse].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Vaerktoejskasse]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="VKId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="dc51bedb-78e9-490a-b922-740dbf9cde6f" ChangeDateTime="02/06/2013 08:54:50">
+    <Property Name="ElementName" Value="[dbo].[Vaerktoejskasse].[Hammer]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Vaerktoejskasse]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Type" />
+  </Operation>
+</Operations>

@@ -1,0 +1,5 @@
+Z:\IKT [4. SEMESTER]\DAB\DAB-Projects\DAB-Projects\bin\Debug\DAB-Projects.dacpac
+Z:\IKT [4. SEMESTER]\DAB\DAB-Projects\DAB-Projects\bin\Debug\DAB_Projects.dll
+Z:\IKT [4. SEMESTER]\DAB\DAB-Projects\DAB-Projects\bin\Debug\DAB_Projects.pdb
+Z:\IKT [4. SEMESTER]\DAB\DAB-Projects\DAB-Projects\obj\Debug\DAB_Projects.dll
+Z:\IKT [4. SEMESTER]\DAB\DAB-Projects\DAB-Projects\obj\Debug\DAB_Projects.pdb
