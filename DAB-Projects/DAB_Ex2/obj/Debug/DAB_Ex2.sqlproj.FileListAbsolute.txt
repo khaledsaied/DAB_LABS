@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\DAB\DAB_LABS\DAB-Projects\DAB_Ex2\bin\Debug\DAB_Ex2.dacpac
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\DAB\DAB_LABS\DAB-Projects\DAB_Ex2\obj\Debug\Model.xml
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\DAB\DAB_LABS\DAB-Projects\DAB_Ex2\obj\Debug\refactor.xml
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\DAB\DAB_LABS\DAB-Projects\DAB_Ex2\obj\Debug\postdeploy.sql
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\DAB\DAB_LABS\DAB-Projects\DAB_Ex2\obj\Debug\predeploy.sql
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\DAB\DAB_LABS\DAB-Projects\DAB_Ex2\obj\Debug\DAB_Ex2.dll
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\DAB\DAB_LABS\DAB-Projects\DAB_Ex2\obj\Debug\DAB_Ex2.pdb
